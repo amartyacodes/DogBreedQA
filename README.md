@@ -1,6 +1,10 @@
 # DogBreedQA
 Repository to Gradio app for Question- Answering using CSV data with RAG Methodology
 
+**Note: Please use the personal Huggingface token inside the code to run the model. It couldn't be added due to privacy issues.**
+
+
+
 ## Solution
 1. The initial CSV file was read and the dog breed columns were identified.
 2. The csv data was converted into a Json data structure and then finally converted into text document to be fed to the RAG Pipeline
